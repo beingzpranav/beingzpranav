@@ -11,8 +11,8 @@
 
 - 🎓 Engineering student from Jaipur, India  
 - 💡 Passionate about building impactful full-stack projects  
-- ☁️ AWS Cloud Captain | Google Cloud Arcade Achiever (52 Skill Badges)  
-- 🛠️ Currently diving deeper into backend and cloud technologies  
+- ☁️ Google Cloud Arcade Achiever (52 Skill Badges)  
+- 🛠️ Currently diving deeper into backend and AI/ML technologies  
 - 🤝 Leading the IEEE Student Chapter at PIET  
 - 🌐 Check out my latest project: [InternMatch](https://internmatch.pranavk.tech)
 
