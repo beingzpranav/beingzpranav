@@ -36,15 +36,6 @@
 
 ---
 
-## 📌 Featured Project
-
-### 🔹 [InternMatch](https://github.com/beingzpranav/InternMatch)
-> A full-stack web app that helps students find the right internships, manage applications, and stay informed.  
-> 💡 Built with **Next.js**, **Tailwind CSS**, **ShadCN UI**, and **React Server Components**  
-> 🚀 Deployed at [internmatch.pranavk.tech](https://internmatch.pranavk.tech)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
